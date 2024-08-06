@@ -12,7 +12,7 @@ Visualizations of key findings
 Python
 Pandas
 NumPy
-sckit learn
+scikitlearn
 scipy
 Matplotlib
 
